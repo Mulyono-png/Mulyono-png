@@ -1,55 +1,80 @@
-## Hi there 👋
-
 <!-- TECH STACK -->
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
-<br />
-
-<!-- STATISTIK GITHUB -->
-<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mulyono-png&show_icons=true&theme=radial&hide_border=true" alt="Mulyono-png's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulyono-png&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="45%" />
+  💻 <b>Tech Stack:</b>
 </p>
+<hr />
 
-<!-- GAMBAR / STREAK / METRICS AKHIR -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mulyono-png&theme=radial&hide_border=true" alt="Mulyono-png's GitHub streak" width="94%" />
+  💻 <b>Tech Stack</b>
 </p>
-
-<!-- GAMBAR ANIMASI BORDER AKHIR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="30" height="30"/>
+</p>
+<p align="center">
+   <i>"Beginner developer passionate about learning. Always open to feedback and guidance!"</i><br />
 </p>
 
-<!--
-**Mulyono-png/Mulyono-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<!-- PROFILE STATS (DISCORD & SPOTIFY) -->
+<p align="center">
+  💻 <b>Profile Stats</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Lanyard Discord Status -->
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1183060699222417438" alt="Discord Status" />
+</p>
+
+<!-- SPOTIFY RECENTLY PLAYED -->
+<p align="center">
+  <a href="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31m63czhaazzgdjmgnewro2p5etm&count=10&duration=1&album=1">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31m63czhaazzgdjmgnewro2p5etm&count=10&duration=1&album=1" alt="Spotify Recently Played" />
+  </a>
+</p>
+<hr />
+
+<!-- GITHUB STATS -->
+<p align="center">
+  📊 <b>GitHub Stats</b>
+</p>
+
+<!-- GitHub Stats Card -->
+<!-- GITHUB STATS LENGKAP -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mulyono-png&theme=tokyonight&hide_border=false&border_color=7aa2f7&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mulyono-png's GitHub Stats" />
+</p>
+<!-- Streak Stats Card -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mulyono-png&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+
+<hr />
+
+<!-- RANDOM DEV QUOTE -->
+<p align="center">
+  ✍️ <b>Random Dev Quote</b>
+</p>
+
+<p align="center">
+  💬 <i>"Programming is 10% writing code and 90% understanding why it’s not working."</i><br />
+  <b> — Anonymous</b>
+</p>
+
+<!-- VISITOR COUNTER ANIMATED -->
+<div align="center">
+    <img src="https://count.getloli.com/@:mjba" alt="Visitor Counter"/>
+</div>
+
