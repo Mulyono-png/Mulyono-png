@@ -53,7 +53,9 @@
 <!-- GitHub Stats Card -->
 <!-- GITHUB STATS LENGKAP -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mulyono-png&theme=tokyonight&hide_border=false&border_color=7aa2f7&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mulyono-png's GitHub Stats" />
+  <a href="https://github.com/Mulyono-png" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mulyono-png&theme=tokyonight&hide_border=false&border_color=7aa2f7&show_icons=true" alt="GitHub Stats"/>
+  </a>
 </p>
 <!-- Streak Stats Card -->
 <p align="center">
